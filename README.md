@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-- Lien vers le site déployé sur Netlify : stoic-boyd-63eb1c
+- Lien vers le site déployé sur Netlify : https://stoic-boyd-63eb1c.netlify.app/
